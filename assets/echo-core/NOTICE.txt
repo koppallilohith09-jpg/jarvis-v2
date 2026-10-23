@@ -1,0 +1,1 @@
+Original JARVIS procedural geometry and interaction controls. Visual reference: https://brahma-echo.netlify.app/ . No website script or private Brahma asset is bundled. three.js is MIT; see LICENSE-three.txt. Scene loads only local files.

@@ -1,0 +1,16 @@
+Modified integration source is in source/. Exact Python versions are in
+requirements-local.lock.txt. Retained component notices and licenses apply.
+
+Mark-LVI: FatihMakes, CC BY-NC 4.0; see LICENSE and UPSTREAM.json.
+https://github.com/FatihMakes/Mark-LVI
+Holo Gestures: Zubair Trabzada / AI Workshop Studio LLC, MIT; see holo/LICENSE
+and holo/THIRD_PARTY.md, including model and prop credits.
+https://github.com/zubair-trabzada/holo-gestures
+The globe's original scene code uses the MIT three.js runtime; see
+assets/echo-core/NOTICE.txt and LICENSE-three.txt. Restricted Brahma assets and
+website scripts are excluded.
+Kokoro, eSpeak NG and phonemizer: models/kokoro/ licenses and notices.
+https://github.com/espeak-ng/espeak-ng
+https://github.com/bootphon/phonemizer
+MediaPipe, Whisper, PyQt/Qt and remaining dependencies: retained model licenses,
+_internal package metadata and upstream notices.
