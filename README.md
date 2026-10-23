@@ -2,7 +2,7 @@
 
 Windows desktop voice assistant with hand gestures, local speech recognition and synthesis, local memory, file tools, and an interactive 3D globe. This repository publishes the **full friend edition of JARVIS 1.8.2**. V2 is the distribution name; the underlying application version remains 1.8.2.
 
-[Download JARVIS V2 for Windows x64](https://github.com/koppallilohith09-jpg/jarvis-v2/releases/latest/download/jarvis-v2.zip)
+[Download JARVIS V2 for Windows x64](https://github.com/Srisathvikchebrolu/jarvis-v2/releases/latest/download/jarvis-v2.zip)
 
 ## Install
 
@@ -10,7 +10,7 @@ Windows desktop voice assistant with hand gestures, local speech recognition and
 2. Open `JARVIS-1.8.2-Friend` and run `JARVIS-Local-Gestures.exe`. Keep its support folders beside the EXE.
 3. Open Settings and connect **your own Gemini or OpenAI API key**. Chat and document analysis require an internet connection and available provider quota. OpenAI API billing is separate from a ChatGPT subscription.
 
-Windows native voice and Kokoro British voice are included. See [README-FIRST.txt](README-FIRST.txt) for settings and command examples. This full download is about 1.39 GB. The smaller [JARVIS V1](https://github.com/koppallilohith09-jpg/jarvis-v1) is based on build 1.8 and provides Kokoro as a separate optional download.
+Windows native voice and Kokoro British voice are included. See [README-FIRST.txt](README-FIRST.txt) for settings and command examples. This full download is about 1.39 GB. The smaller [JARVIS V1](https://github.com/Srisathvikchebrolu/jarvis-v1) is based on build 1.8 and provides Kokoro as a separate optional download.
 
 ## Features and limits
 
